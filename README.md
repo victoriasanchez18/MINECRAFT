@@ -6,7 +6,7 @@ informacion
 
 # fase 1.ANALISIS 
  Docuemto donde analizo funcionales y nofuncionales
- # fase2. DISE;O
+ # fase 2. DISE;O
  Diagrama de flujo 
- # fase2.Desarrollo
+ # fase 3.DESARROLLO
  Codigo en lenguaje de programacion en pythoin
